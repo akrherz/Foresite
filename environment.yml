@@ -1,0 +1,5 @@
+dependencies:
+  - codecov
+  - geopandas
+  - pytest
+  - setuptools_scm
