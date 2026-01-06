@@ -1,7 +1,7 @@
 
 [tool.ruff]
 line-length = 179
-target-version = "py39"
+target-version = "py310"
 exclude = [
     "**/*.ipynb",
 ]
